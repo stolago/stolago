@@ -1,9 +1,6 @@
-<div align="center"> 
-
-![](https://komarev.com/ghpvc/?username=secretaryrard&color=0d0c0c&style=plastic&label=♡)
 
 <div align="center"> 
-  <a href="https://cartoonjax.atabook.org" target="_blank">ata</a> | <a href="https://pronouns.cc/@secretaryrard" target="_blank">prns page</a> 
+  <a href="https://secretary" target="_blank">ata</a>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
