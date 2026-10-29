@@ -3,7 +3,7 @@
   <a href="https://secretary.atabook.org" target="_blank">ata</a>
 
 <div align="center">
- <img width="350" height="160" alt="vassago-helluva-boss" src="https://github.com/user-attachments/assets/d22a65f5-f862-466f-9f58-bf2fd185f06d" />
+ <img width="300" height="160" alt="vassago-helluva-boss" src="https://github.com/user-attachments/assets/d22a65f5-f862-466f-9f58-bf2fd185f06d" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
